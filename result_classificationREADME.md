@@ -1,12 +1,11 @@
 # Type-of-cancer-detection
 # Problem Statement:
-                    1.People diagnosed earlier with cancer are not only more likely to survive, but importantly also to have better experiences of care, lower treatment morbidity, and improved quality of life compared with those diagnosed late.
-                    
-                    
-                    
-2. This type identification is important in healthcare to get well care to patient.
+ 1.People diagnosed earlier with cancer are not only more likely to survive, but importantly 
+  also to have better experiences of care, lower treatment morbidity, and improved quality of 
+  life compared with those diagnosed late.
+ 2. This type identification is important in healthcare to get well care to patient.
 
- In healthcare department, detection of type of cancer is so important.
+In healthcare department, detection of type of cancer is so important.
 If the Type of cancer is identified correctly at stage, patient will carry their respective treatments.
 
 # RESULT 
