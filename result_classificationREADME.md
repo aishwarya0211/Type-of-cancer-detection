@@ -6,8 +6,8 @@
                     
 2. This type identification is important in healthcare to get well care to patient.
 
-# In healthcare department, detection of type of cancer is so important.
-# If the Type of cancer is identified correctly at stage, patient will carry their respective treatments.
+ In healthcare department, detection of type of cancer is so important.
+If the Type of cancer is identified correctly at stage, patient will carry their respective treatments.
 
 # RESULT 
 
